@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+#left {
+	float: left;
+	margin-right: 150px;
+}
+aside{
+	width: 350px;
+	float: left;
+	}
+

@@ -1,0 +1,17 @@
+@charset "UTF-8";
+main{
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2{
+	color: #700000;
+}
+
+h3{
+	color: #700000;
+	opacity: .75;
+	margin-bottom: -13px;
+}
+
+p{
+}
